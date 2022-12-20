@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Description Anekacoffee
 
-Let's discover **Docusaurus in less than 5 minutes**.
+AnekaCoffee is a place that provides food and drinks, but primarily sells coffee. Generally, what is called a coffee shop, is a coffee shop where the place is designed attractively and provides many coffee menus. A number of places also provide a coffee menu with various ways of brewing it.
 
 ## Getting Started
 
